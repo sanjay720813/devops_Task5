@@ -14,7 +14,7 @@ Deploy and manage applications in Kubernetes using **Minikube**, **kubectl**, an
 
 ## 📂 Deliverables
 - Kubernetes YAML files: `deployment.yaml`, `service.yaml`  
-- Screenshot of pods/services: `kube.png`  
+- Screenshot of pods/services: [`kube.png`](https://github.com/sanjay720813/devops_Task5/blob/main/kube.png)  
 
 ---
 
